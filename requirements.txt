@@ -1,0 +1,6 @@
+nltk 
+pandas
+streamlit 
+scikit-learn 
+pyrebase4
+
